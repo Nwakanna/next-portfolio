@@ -1,0 +1,11 @@
+<script>start("/Users/uchechinwaka/learn/portfolio/next-portfolio/img/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("icons","icons",1,448,"448 B",1747632406,"19/05/2025, 07:26:46");</script>
+<script>addRow("form-bg-desktop.png","form-bg-desktop.png",0,30063,"29.4 kB",1747632406,"19/05/2025, 07:26:46");</script>
+<script>addRow("form-bg-mobile.png","form-bg-mobile.png",0,8300,"8.1 kB",1747632406,"19/05/2025, 07:26:46");</script>
+<script>addRow("header-bg-desktop.png","header-bg-desktop.png",0,50604,"49.4 kB",1747632406,"19/05/2025, 07:26:46");</script>
+<script>addRow("header-bg-mobile.png","header-bg-mobile.png",0,15367,"15.0 kB",1747632406,"19/05/2025, 07:26:46");</script>
+<script>addRow("work-snapshot00.png","work-snapshot00.png",0,82464,"80.5 kB",1747632406,"19/05/2025, 07:26:46");</script>
+<script>addRow("work-snapshot01.png","work-snapshot01.png",0,95700,"93.5 kB",1747632406,"19/05/2025, 07:26:46");</script>
+<script>addRow("work-snapshot02.png","work-snapshot02.png",0,86149,"84.1 kB",1747632406,"19/05/2025, 07:26:46");</script>
+<script>addRow("work-snapshot03.png","work-snapshot03.png",0,81568,"79.7 kB",1747632406,"19/05/2025, 07:26:46");</script>
